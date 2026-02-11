@@ -16,9 +16,6 @@
 *****************  Version 1.0.0  ****************
 **  User: SBabu   Date:  September 18 2024 
 **  Comment: Code Review Complete                                      
-*****************  Version 2.0  ****************
-**  User: JVergara   Date:  February 04 2025
-**  Comment: Released to Eli Lilly 
 *********************************************************************************
 -->
   
